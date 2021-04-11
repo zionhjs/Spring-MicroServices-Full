@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a7e0e47-6edc-44bc-be19-53abef866895" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/netflix-eureka-naming-server-clustering/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/netflix-eureka-naming-server-clustering/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/netflix-zul-api-gateway-server" />
+  </component>
+  <component name="ProjectId" id="1qzOBF8D0bUykjvLHq42vrqCoPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a7e0e47-6edc-44bc-be19-53abef866895" name="Default Changelist" comment="" />
+      <created>1618078814309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618078814309</updated>
+    </task>
+    <servers />
+  </component>
+</project>

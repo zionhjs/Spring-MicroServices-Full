@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Cart-Consul-Client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CartService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HystrixDashBoard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Product-Consul-Client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProductService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TurbineStreamAggregator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netflix-eureka-naming-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netflix-eureka-naming-server-clustering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netflix-zul-api-gateway-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud-zookeeper" vcs="Git" />
+  </component>
+</project>
